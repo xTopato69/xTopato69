@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xTopato69
 - 👀 I’m interested in developing and learning.
-- 🌱 I’m currently learning Html/css/react/JS
+- 🌱 I’m learning AI / ML with eSewa as an intern
 - 📫 How to reach me khadkaaashu4@gmail.com
 
 <!---
